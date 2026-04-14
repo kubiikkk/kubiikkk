@@ -12,33 +12,18 @@ I enjoy building things for the web, learning new technologies, and gradually le
 - 🌐 Web Development (main focus)
 - 📱 Exploring Mobile Development (Android / iOS with React Native & Expo)
 - 🎮 Interested in future Game Development
-- 🎬 I also do professional video editing
-
-I like turning ideas into functional, clean and scalable applications — step by step, project by project.
 
 ---
 
 ## 🧠 Tech Stack
 
-**Frontend**
 - Next.js
 - React
 - Tailwind CSS
 - Axios
-
-**Backend**
 - Node.js
 - Express / NestJS
 - Prisma
-
-**Database**
-- PostgreSQL
-
-**Tools & DevOps**
-- Docker
-- Postman
-
-**Mobile**
 - React Native + Expo
 
 ---
