@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**kubiikkk/kubiikkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **kubi**, a developer from the Czech Republic 🇨🇿  
+Currently studying IT (Software Development track).
 
-Here are some ideas to get you started:
+I enjoy building things for the web, learning new technologies, and gradually leveling up toward becoming a **full-stack developer**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 What I do
+
+- 🌐 Web Development (main focus)
+- 📱 Exploring Mobile Development (Android / iOS with React Native & Expo)
+- 🎮 Interested in future Game Development
+- 🎬 I also do professional video editing
+
+I like turning ideas into functional, clean and scalable applications — step by step, project by project.
+
+---
+
+## 🧠 Tech Stack
+
+**Frontend**
+- Next.js
+- React
+- Tailwind CSS
+- Axios
+
+**Backend**
+- Node.js
+- Express / NestJS
+- Prisma
+
+**Database**
+- PostgreSQL
+
+**Tools & DevOps**
+- Docker
+- Postman
+
+**Mobile**
+- React Native + Expo
+
+---
+
+## 🎧 Fun Facts | Outside of coding
+
+- 🎮 Video games
+- 🎵 Music
+- 🎬 Movies & TV shows
+- 🎥 Video editing
